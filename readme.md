@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	"gitverse.ru/apchelnokov/gonetic"
+	"gitverse.ru/achelnokov/gonetic"
 )
 
 func main() {
